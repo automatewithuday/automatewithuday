@@ -28,7 +28,7 @@ All MIT. All built to be forked and pointed at your own ICP.
 
 Operator to operator, mostly about GTM automation and Claude Code agentic workflows.
 
-- [automatewithuday.com](https://automatewithuday.com)
+- Website https://www.martechs.io
 - Instagram [@automatewithuday](https://instagram.com/automatewithuday)
 - LinkedIn [uday-singh-kang](https://linkedin.com/in/uday-singh-kang)
 
