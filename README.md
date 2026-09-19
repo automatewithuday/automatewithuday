@@ -28,7 +28,8 @@ All MIT. All built to be forked and pointed at your own ICP.
 
 Operator to operator, mostly about GTM automation and Claude Code agentic workflows.
 
-- Website https://www.martechs.io
+- Website https://martechs.io
+- 56 free GTM skills for Claude Code https://martechs.io/gtm-skills
 - Instagram [@automatewithuday](https://instagram.com/automatewithuday)
 - LinkedIn [uday-singh-kang](https://linkedin.com/in/uday-singh-kang)
 
