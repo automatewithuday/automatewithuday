@@ -10,7 +10,7 @@ Last 12 months, across clients: 2,700+ demos booked for a payroll company, $250K
 
 | Repo | What it does | Real run |
 |---|---|---|
-| [mcp-adopters](https://github.com/automatewithuday/mcp-adopters) | Ranked outreach list of people adopting MCP, from the GH Archive mirror, ranked by Jev, emails under a hard cap | 713 actors to 14 emails, $2.81 |
+| [mcp-adopters](https://github.com/automatewithuday/mcp-adopters) | Ranked outreach list of people adopting MCP, from the GH Archive mirror, ranked by Jev, emails under a hard cap | 713 actors to 14 emails, $2.81. Full year: 104,121 people to 315 ICP companies, about $13 |
 | [spam-leadgen-pipeline](https://github.com/automatewithuday/spam-leadgen-pipeline) | Your spam folder is a lead list. Classifies senders, audits their DNS, drafts the reverse pitch | 115 emails to 19 ICP senders, about 1 cent |
 | [account-enrichment-pipeline](https://github.com/automatewithuday/account-enrichment-pipeline) | Domains and titles in, intel card plus verified contacts and email gateway out. Never pays twice | about $0.13 per account |
 | [linkedin-competitor-icp-scorer](https://github.com/automatewithuday/linkedin-competitor-icp-scorer) | Scores everyone engaging with a competitor's posts against your ICP | 136 engagers, 2 qualified |
